@@ -6,11 +6,11 @@ let Persons = new Schema({
     name: {
         type: String
     },
-    adress: {
-        type: String
-    },
     age: {
         type: Number
+    },
+    adress: {
+        type: String
     },
     sex: {
         type: String
